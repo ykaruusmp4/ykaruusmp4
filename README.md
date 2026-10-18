@@ -32,7 +32,7 @@ Tenho a mente bem lógica, gosto de entender como as coisas funcionam por baixo 
 
 ---
 
-## 🛠️ O que eu uso
+## 🛠️ O que eu uso (ou tento pelo menos)
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
