@@ -17,9 +17,7 @@
 
 Sou um dev solo multidisciplinar. Programo, edito vídeo, fotografo, edito foto e faço design.
 
-Na prática: sou dev, designer, QA e suporte ao mesmo tempo. O salário é igual pra todos os cargos (zero) 💸
-
-Tenho a mente bem lógica, gosto de entender como as coisas funcionam por baixo e de reescrever do zero só pra ter o gostinho 🦀
+Tenho a mente bem lógica, gosto de entender como as coisas funcionam por baixo e de reescrever do zero só pra entender como funciona realmente 🦀
 
 ---
 
