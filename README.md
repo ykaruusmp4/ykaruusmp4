@@ -1,13 +1,10 @@
 <div align="center">
 
-# 👋 E aí, eu sou YkaruusMp4
+# 👋 E aí, eu sou YkaruusMP4
 
 ### dev · designer · editor · fotógrafo · faz-tudo 🥀
 
 *Mente puramente lógica.*
-
-![Profile views](https://komarev.com/ghpvc/?username=YkaruusMP4&color=blueviolet&style=for-the-badge&label=VISITAS)
-![Followers](https://img.shields.io/github/followers/YkaruusMP4?style=for-the-badge&logo=github&color=black)
 
 </div>
 
@@ -63,19 +60,8 @@ E fora do código: **edição de vídeo, fotografia, edição de foto e design**
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YkaruusMP4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YkaruusMP4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com?user=YkaruusMP4&theme=tokyonight&hide_border=true)
-
-### 📈 Contribuições nos últimos 31 dias
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YkaruusMP4&theme=tokyo-night&hide_border=true&area=true)
-
-### 🏆 Troféus
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YkaruusMP4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=YkaruusMP4&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&title_color=8B0000&icon_color=4A3B32&text_color=2C2C2C&bg_color=FDFBF7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YkaruusMP4&layout=compact&theme=graywhite&hide_border=true&langs_count=8&title_color=8B0000&text_color=2C2C2C&bg_color=FDFBF7)
 
 </div>
 
