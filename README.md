@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 E aí, eu sou o Vexy
+# 👋 E aí, eu sou YkaruusMp4
 
 ### dev · designer · editor · fotógrafo · faz-tudo 🥀
 
